@@ -1,8 +1,12 @@
 <h2>Welcome to django rest APIs
 <h3>We need to answer some question before diving in to it
 <ul>
-<li>What is an API</li>
-<li> What is a REST API</li>
+<li>What is an API:<br>
+API means application programming interface.
+</li>
+<li> What is a REST API:<br>
+Representational state transfer
+</li>
 <li>What is a termination point</li>
 <li>What does JSON format mean</li>
 <li>What is the validation of an API</li>
